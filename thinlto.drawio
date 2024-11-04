@@ -8,7 +8,7 @@
           <mxGeometry x="235.5" y="236" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VgSTUr_7AbSJky1cKvdX-176" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235.5" y="120" width="90" height="110" as="geometry" />
+          <mxGeometry x="235.5" y="87" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VgSTUr_7AbSJky1cKvdX-78" value="merge split bc and summary index" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="350" y="126.75" width="22" height="202.5" as="geometry" />
@@ -17,19 +17,19 @@
           <mxGeometry x="87" y="129.75" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="VgSTUr_7AbSJky1cKvdX-92" value="a.bc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;direction=north;size=0.10101010101010102;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="127" width="79" height="20" as="geometry" />
+          <mxGeometry x="241" y="94" width="79" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VgSTUr_7AbSJky1cKvdX-101" value="b.cc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="87" y="234.75" width="80" height="95" as="geometry" />
         </mxCell>
         <mxCell id="VgSTUr_7AbSJky1cKvdX-113" value="a.index" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;direction=north;size=0.10101010101010102;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="153" width="79" height="20" as="geometry" />
+          <mxGeometry x="241" y="120" width="79" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VgSTUr_7AbSJky1cKvdX-114" value="a.split.bc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;direction=north;size=0.10101010101010102;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="179" width="79" height="18" as="geometry" />
+          <mxGeometry x="241" y="146" width="79" height="18" as="geometry" />
         </mxCell>
         <mxCell id="VgSTUr_7AbSJky1cKvdX-115" value="a.split.index" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;direction=north;size=0.11235955056179778;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="203" width="79" height="20" as="geometry" />
+          <mxGeometry x="241" y="170" width="79" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VgSTUr_7AbSJky1cKvdX-121" value="a.bc" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;direction=north;size=0.10101010101010102;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="244" width="79" height="20" as="geometry" />
